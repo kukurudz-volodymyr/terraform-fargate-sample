@@ -1,5 +1,7 @@
 # Terraform + ECS Fargate Demo
 
+Inspired by - https://github.com/bradford-hamilton/terraform-ecs-fargate
+
 This project shows how to easily spin up ECS Fargate instance with all necessary resources using Terraform
 
 ## Overview of app structure
